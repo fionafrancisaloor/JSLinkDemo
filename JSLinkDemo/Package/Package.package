@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="1fa8a9d3-1d83-441d-938b-6f958ec90ec2" 
+        solutionId="1fa8a9d3-1d83-441d-938b-6f958ec90ec2" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="JSLinkDemo"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="540d44f0-4053-416c-9025-f004abcb49ad" />
+  </features>
+</package>
